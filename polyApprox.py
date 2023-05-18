@@ -14,3 +14,5 @@ x = (1000 % (2*pi))
 x %= (pi/2)
 
 # if betterX is greater than pi/4, betterXX = pi/2 - betterX. This value's cos is equal to the sin of the value we want. Find the sin of betterXX, and use pythagorean theorem (sqrt(1-sin(betterXX)), which would get cosin of that value, which is equal to the sin of the intended value)
+
+print("hi")
